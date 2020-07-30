@@ -47,6 +47,7 @@ YOLO (You Only Look Once) is a real-time object detection algorithm, which is on
 This algorithm works by performing only one forward pass, a single CNN simultaneously predicts multiple bounding boxes and class probabilities for those boxes. YOLO trains on full images and directly optimizes detection performance.
 
 Darknet is a framework to train neural networks, it is open source and written in C/CUDA and serves as the basis for YOLO.
-[AlexeyAB/darknet Paper Yolo v4: https://arxiv.org/abs/2004.10934 More details: medium link Discussion: Reddit About Darknet framework… github.com](https://github.com/AlexeyAB/darknet)
+https://github.com/AlexeyAB/darknet
+
 
 
